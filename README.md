@@ -1,4 +1,4 @@
-# onur ergüt
+# Onur Ergüt
 
 Computer engineering student at Yildiz Technical University. I build websites,
 mobile apps and tools for the Mac.
