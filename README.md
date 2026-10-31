@@ -23,6 +23,14 @@ separately. MIT-licensed, signed and notarized releases; **0.1.0** is the
 current version. Start with the [latest
 release](https://github.com/onurergut/sw33p/releases/latest).
 
+**[scrib3](https://github.com/onurergut/scrib3)** — native macOS app that turns
+video and audio into timed SRT, VTT, or TXT subtitles. Speech recognition runs
+on-device through Apple's engine or WhisperKit, so recordings stay on the Mac;
+cues are reviewed and edited next to a player before export, and the first use
+of a language downloads its model once. MIT-licensed, signed and notarized
+releases; **0.1.0** is the current version and needs macOS 26. Start with the
+[latest release](https://github.com/onurergut/scrib3/releases/latest).
+
 **[Onur's Orchestration](https://github.com/onurergut/Onurs_Orchestration)** —
 self-hosted Python service that runs a task through planning, implementation,
 pytest, a bandit scan, review and a documentation update, checking a per-project
